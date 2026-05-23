@@ -68,10 +68,10 @@ A brief description of what this project does and the problem it solves.
 ## 📫 Let's Connect!
 
 - **Email:** info@nevanjitours.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/evanson-kihika-740631124)
-- **Twitter:** [@yourhandle](https://twitter.com/thenevanji)
-- **Personal Blog:** [yourwebsite.com](https://nevanjitours.com)
-- **Portfolio:** [yourportfolio.com](https://github-readme-stats.vercel.app.com)
+- **LinkedIn:** (https://linkedin.com/in/evanson-kihika-740631124)
+- **Twitter:** (https://twitter.com/thenevanji)
+- **Personal Blog:** (https://nevanjitours.com)
+- **Portfolio:** (https://github-readme-stats.vercel.app.com)
 
 ---
 
