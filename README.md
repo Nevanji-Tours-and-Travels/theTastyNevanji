@@ -67,11 +67,11 @@ A brief description of what this project does and the problem it solves.
 
 ## 📫 Let's Connect!
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Personal Blog:** [yourwebsite.com](https://yourwebsite.com)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- **Email:** info@nevanjitours.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/evanson-kihika-740631124)
+- **Twitter:** [@yourhandle](https://twitter.com/thenevanji)
+- **Personal Blog:** [yourwebsite.com](https://nevanjitours.com)
+- **Portfolio:** [yourportfolio.com](https://github-readme-stats.vercel.app.com)
 
 ---
 
